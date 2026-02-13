@@ -1,12 +1,12 @@
 # WireMock Load Testing with Locust 🚀
 
-Repositori ini berisi skrip pengujian beban (*load testing*) untuk layanan API **NahSehat** yang berjalan di atas WireMock. Proyek ini bertujuan untuk memantau performa layanan selama pengujian beban berlangsung.
+Repositori ini berisi skrip pengujian beban (*load testing*) untuk layanan API yang berjalan di atas WireMock. Proyek ini bertujuan untuk memantau performa layanan selama pengujian beban berlangsung.
 
 ## 🛠️ Tech Stack
-- **Python**: Bahasa pemrograman utama.
-- **Locust**: Framework load testing berbasis Python.
-- **python-dotenv**: Manajemen konfigurasi lingkungan.
-- **WireMock**: Service virtualization/mocking.
+- **Python**
+- **Locust**
+- **python-dotenv**
+- **WireMock**
 
 ## 📋 Prasyarat
 - Python 3.10+
