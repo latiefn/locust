@@ -10,7 +10,7 @@ Repositori ini berisi skrip pengujian beban (*load testing*) untuk layanan API *
 
 ## 📋 Prasyarat
 - Python 3.10+
-- Akses ke server via Tailscale (IP: `127.0.0.1`)
+- Akses ke server (IP: `127.0.0.1`)
 
 ## 🚀 Cara Menjalankan
 1. **Clone Repositori**:
